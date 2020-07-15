@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:39:14 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Sun Jul 12 21:01:46 2020
+# Process ID: 147365
+# Current directory: /home/locch/Documents/Zedboard/blink_vhdl/blink_vhdl.runs/synth_1
+# Command line: vivado -log blink_vhdl.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source blink_vhdl.tcl
+# Log file: /home/locch/Documents/Zedboard/blink_vhdl/blink_vhdl.runs/synth_1/blink_vhdl.vds
+# Journal file: /home/locch/Documents/Zedboard/blink_vhdl/blink_vhdl.runs/synth_1/vivado.jou
+#-----------------------------------------------------------
+source blink_vhdl.tcl -notrace

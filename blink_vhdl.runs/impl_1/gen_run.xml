@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7z020clg484-1" LaunchTime="1594614284">
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <File Type="BITSTR-SYSDEF" Name="blink_vhdl.sysdef"/>
+  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
+  <File Type="BITSTR-LTX" Name="blink_vhdl.ltx"/>
+  <File Type="BG-BGN" Name="blink_vhdl.bgn"/>
+  <File Type="RBD_FILE" Name="blink_vhdl.rbd"/>
+  <File Type="BG-DRC" Name="blink_vhdl.drc"/>
+  <File Type="NPI_FILE" Name="blink_vhdl.npi"/>
+  <File Type="RNPI_FILE" Name="blink_vhdl.rnpi"/>
+  <File Type="CFI_FILE" Name="blink_vhdl.cfi"/>
+  <File Type="PDI-FILE" Name="blink_vhdl.pdi"/>
+  <File Type="BITSTR-MMI" Name="blink_vhdl.mmi"/>
+  <File Type="BITSTR-BMM" Name="blink_vhdl_bd.bmm"/>
+  <File Type="BITSTR-NKY" Name="blink_vhdl.nky"/>
+  <File Type="BITSTR-RBT" Name="blink_vhdl.rbt"/>
+  <File Type="BITSTR-MSK" Name="blink_vhdl.msk"/>
+  <File Type="BG-BIN" Name="blink_vhdl.bin"/>
+  <File Type="RCFI_FILE" Name="blink_vhdl.rcfi"/>
+  <File Type="BG-BIT" Name="blink_vhdl.bit"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-RPX" Name="blink_vhdl_bus_skew_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="blink_vhdl_bus_skew_postroute_physopted.pb"/>
+  <File Type="RDI-RDI" Name="blink_vhdl.vdi"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="blink_vhdl_timing_summary_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="blink_vhdl_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="blink_vhdl_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="blink_vhdl_postroute_physopt_bb.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="blink_vhdl_postroute_physopt.dcp"/>
+  <File Type="ROUTE-BUS-SKEW" Name="blink_vhdl_bus_skew_routed.rpt"/>
+  <File Type="ROUTE-CLK" Name="blink_vhdl_clock_utilization_routed.rpt"/>
+  <File Type="ROUTE-SIMILARITY" Name="blink_vhdl_incremental_reuse_routed.rpt"/>
+  <File Type="ROUTE-TIMING-RPX" Name="blink_vhdl_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-TIMING-PB" Name="blink_vhdl_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="blink_vhdl_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="blink_vhdl_route_status.pb"/>
+  <File Type="ROUTE-STATUS" Name="blink_vhdl_route_status.rpt"/>
+  <File Type="ROUTE-PWR-RPX" Name="blink_vhdl_power_routed.rpx"/>
+  <File Type="ROUTE-PWR-SUM" Name="blink_vhdl_power_summary_routed.pb"/>
+  <File Type="ROUTE-PWR" Name="blink_vhdl_power_routed.rpt"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="blink_vhdl_methodology_drc_routed.pb"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="blink_vhdl_methodology_drc_routed.rpx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="blink_vhdl_methodology_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-RPX" Name="blink_vhdl_drc_routed.rpx"/>
+  <File Type="ROUTE-DRC-PB" Name="blink_vhdl_drc_routed.pb"/>
+  <File Type="ROUTE-DRC" Name="blink_vhdl_drc_routed.rpt"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="blink_vhdl_routed_bb.dcp"/>
+  <File Type="ROUTE-DCP" Name="blink_vhdl_routed.dcp"/>
+  <File Type="ROUTE-ERROR-DCP" Name="blink_vhdl_routed_error.dcp"/>
+  <File Type="PHYSOPT-TIMING" Name="blink_vhdl_timing_summary_physopted.rpt"/>
+  <File Type="PHYSOPT-DRC" Name="blink_vhdl_drc_physopted.rpt"/>
+  <File Type="PHYSOPT-DCP" Name="blink_vhdl_physopt.dcp"/>
+  <File Type="POSTPLACE-PWROPT-TIMING" Name="blink_vhdl_timing_summary_postplace_pwropted.rpt"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="blink_vhdl_postplace_pwropt.dcp"/>
+  <File Type="PLACE-TIMING" Name="blink_vhdl_timing_summary_placed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="blink_vhdl_incremental_reuse_pre_placed.rpt"/>
+  <File Type="PLACE-SIMILARITY" Name="blink_vhdl_incremental_reuse_placed.rpt"/>
+  <File Type="PLACE-CTRL" Name="blink_vhdl_control_sets_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="blink_vhdl_utilization_placed.pb"/>
+  <File Type="PLACE-UTIL" Name="blink_vhdl_utilization_placed.rpt"/>
+  <File Type="PLACE-CLK" Name="blink_vhdl_clock_utilization_placed.rpt"/>
+  <File Type="PLACE-IO" Name="blink_vhdl_io_placed.rpt"/>
+  <File Type="PLACE-DCP" Name="blink_vhdl_placed.dcp"/>
+  <File Type="PWROPT-TIMING" Name="blink_vhdl_timing_summary_pwropted.rpt"/>
+  <File Type="PWROPT-DRC" Name="blink_vhdl_drc_pwropted.rpt"/>
+  <File Type="PWROPT-DCP" Name="blink_vhdl_pwropt.dcp"/>
+  <File Type="OPT-TIMING" Name="blink_vhdl_timing_summary_opted.rpt"/>
+  <File Type="OPT-HWDEF" Name="blink_vhdl.hwdef"/>
+  <File Type="OPT-METHODOLOGY-DRC" Name="blink_vhdl_methodology_drc_opted.rpt"/>
+  <File Type="OPT-DRC" Name="blink_vhdl_drc_opted.rpt"/>
+  <File Type="OPT-DCP" Name="blink_vhdl_opt.dcp"/>
+  <File Type="INIT-TIMING" Name="blink_vhdl_timing_summary_init.rpt"/>
+  <File Type="ROUTE-BUS-SKEW-RPX" Name="blink_vhdl_bus_skew_routed.rpx"/>
+  <File Type="REPORTS-TCL" Name="blink_vhdl_reports.tcl"/>
+  <File Type="ROUTE-BUS-SKEW-PB" Name="blink_vhdl_bus_skew_routed.pb"/>
+  <File Type="PA-TCL" Name="blink_vhdl.tcl"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW" Name="blink_vhdl_bus_skew_postroute_physopted.rpt"/>
+  <File Type="PA-DCP" Name="blink_vhdl.dcp"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/new/blink_vhdl.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="blink_vhdl"/>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <File Path="$PSRCDIR/constrs_1/new/blink_vhdl_constraints.xdc">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="TargetConstrsFile" Val="$PSRCDIR/constrs_1/new/blink_vhdl_constraints.xdc"/>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1">
+    <Filter Type="Utils"/>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2019"/>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design" EnableStepBool="1"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+  </Strategy>
+</GenRun>
